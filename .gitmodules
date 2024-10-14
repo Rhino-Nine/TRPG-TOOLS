@@ -1,0 +1,4 @@
+[submodule "themes/hugo-blog-awesome"]
+	path = themes/hugo-blog-awesome
+	url = https://github.com/Rhino-Nine/hugo-blog-awesome
+	branch = main
