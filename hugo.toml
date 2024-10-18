@@ -25,26 +25,31 @@ theme = "hugo-blog-awesome"
     name = '规则'
     url = '/rules/'
     weight = 10
- [[menu.main]] 
+  [[menu.main]] 
     pageRef="modules"
     name = '模组'
     url = '/modules/'
     weight = 20
- [[menu.main]]
+  [[menu.main]]
     pageRef="tools"
     name = '工具'
     url = '/tools/'
     weight = 30
-   [[menu.main]]
+  [[menu.main]]
     pageRef="resources"
     name = '资源'
     url = '/resources/'
-    weight = 40
+    weight = 40 
+  [[menu.main]]
+    pageRef="logs"
+    name = '日志'
+    url = '/logs/'
+    weight = 50
   [[menu.main]]
     pageRef="about"
     name = '关于'
     url = '/about/'
-    weight = 50
+    weight = 60
 
 [taxonomies]
 tag = "tags"
