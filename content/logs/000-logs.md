@@ -20,7 +20,7 @@ categories = ['categories']
 | 孳生 | COC7th | —— | <div style="color:#f00;">拜尔博格-斯塔</div> | |
 | 死光      | COC7th | 咕咕  | 亚历山大-格雷森 | |
 | 童话风短模集    | DND5th | 咕咕      | 幽辰 | |
-| 风骸岛之龙      | DND5th | 咕咕      | 幽辰 | |
+| 风骸岛之龙      | DND5th | 咕咕      | 残山落霞 | |
 | 冰封谷速递      | DND5th | 百战百胜圣武战帅 | 残山落霞 | |
 | 哥布林必须死    | DND5th | ——    |  | |
 | 奥塔里的小麻烦  | PF2nd | 咕咕  | <div style="color:#f00;">豪鬼；尤光</div> | |
@@ -31,7 +31,7 @@ categories = ['categories']
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则</dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
 | :--- | :--- | :--- | :--- | :--- |
 | 侠义出手 | 侠界 | 咕咕 | 华风 |  |
-
+| 荒洲短篇-复仇之潮 | DND5th | 咕咕；珀西；烨夜；| 20241028— |
 ## 坠毁
 
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则 </dev> | <div style="width:100px;"> GM </dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
@@ -43,4 +43,3 @@ categories = ['categories']
 
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则 </dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> 是否升空</dev> | <div style="width:100px;"> 当前高度</dev> |
 | :--- | :--- | :--- | :--- | :--- |
-| 荒州四短模 | DND5th |咕咕|||
