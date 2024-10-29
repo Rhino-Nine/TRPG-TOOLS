@@ -31,7 +31,7 @@ categories = ['categories']
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则</dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
 | :--- | :--- | :--- | :--- | :--- |
 | 侠义出手 | 侠界 | 咕咕 | 华风 |  |
-| 荒洲短篇-复仇之潮 | DND5th | 咕咕；珀西；烨夜；| 20241028— |
+| 荒洲短篇-复仇之潮 | DND5th | 咕咕；珀西；烨夜；| 阿斯特-金；坷萝；约克-斯通 | 20241028— |
 ## 坠毁
 
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则 </dev> | <div style="width:100px;"> GM </dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
