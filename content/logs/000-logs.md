@@ -23,6 +23,7 @@ categories = ['categories']
 | 风骸岛之龙      | DND5th | 咕咕      | 残山落霞 | |
 | 冰封谷速递      | DND5th | 百战百胜圣武战帅 | 残山落霞 | |
 | 哥布林必须死    | DND5th | ——    |  | |
+| 冰塔峰之龙      | DND5th | 咕咕 | |
 | 奥塔里的小麻烦  | PF2nd | 咕咕  | <div style="color:#f00;">豪鬼；尤光</div> | |
 | 苗疆往事        | 侠界 | 秋导  | 张云逸 | |
 
