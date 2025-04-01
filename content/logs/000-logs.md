@@ -11,28 +11,32 @@ categories = ['categories']
 
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则</dev> | <div style="width:100px;"> GM</dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
 | :--- | :--- | :--- | :--- | :--- |
-| 追书人          | COC7th | 雅霜  |  | |
-| 望君长留        | COC7th | Yoker | <div style="color:#f00;">无名和尚</div>      | |
-| 死者的顿足舞    | COC7th | ——    | 拜尔博格-斯塔 | |
-| 同频共振     | COC7th | ——    | 拜尔博格-斯塔 | |
-| 雾中少女        | COC7th | —— | 拜尔博格-斯塔 | |
-| 天主之仆        | COC7th | ——    | 拜尔博格-斯塔 | |
-| 孳生 | COC7th | —— | <div style="color:#f00;">拜尔博格-斯塔</div> | |
-| 死光      | COC7th | 咕咕  | 亚历山大-格雷森 | |
-| 童话风短模集    | DND5th | 咕咕      | 幽辰 |  |
-| 风骸岛之龙      | DND5th | 咕咕      | 残山落霞 | |
-| 冰封谷速递      | DND5th | 百战百胜圣武战帅 | 残山落霞 | |
-| 哥布林必须死    | DND5th | ——    |  | |
-| 冰塔峰之龙      | DND5th | 咕咕 | |
-| 奥塔里的小麻烦  | PF2nd | 咕咕  | <div style="color:#f00;">豪鬼；尤光</div> | |
-| 苗疆往事        | 侠界 | 秋导  | 张云逸 | |
+| 追书人            | COC7th | 雅霜             |  | |
+| 望君长留          | COC7th | Yoker            | <div style="color:#f00;">无名和尚</div>      | |
+| 死者的顿足舞      | COC7th | ——               | 拜尔博格·斯塔 | |
+| 同频共振          | COC7th | ——               | 拜尔博格·斯塔 | |
+| 雾中少女          | COC7th | ——               | 拜尔博格·斯塔 | |
+| 天主之仆          | COC7th | ——               | 拜尔博格·斯塔 | |
+| 孳生              | COC7th | ——               | <div style="color:#f00;">拜尔博格-斯塔</div> | |
+| 死光              | COC7th | 咕咕             | 亚历山大·格雷森 | |
+| 逃离印斯茅斯      | COC7th | 咕咕             | 亚历山大·格雷森 | 2025/3/30 |
+|  |  |  |  |  |
+| 童话风短模集      | DND5th | 咕咕             | 幽辰 |  |
+| 风骸岛之龙        | DND5th | 咕咕             | 残山落霞 | |
+| 冰封谷速递        | DND5th | 百战百胜圣武战帅 | 残山落霞 | |
+| 哥布林必须死      | DND5th | ——               |  | |
+| 冰塔峰之龙        | DND5th | 咕咕             | |
+|  |  |  |  |  |
+| 奥塔里的小麻烦    | PF2nd  | 咕咕             | <div style="color:#f00;">豪鬼；尤光</div> | |
+|  |  |  |  |  |
+| 苗疆往事          | 侠界   | 秋导             | 张云逸 | |
 
 ## 发射
 
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则</dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
 | :--- | :--- | :--- | :--- | :--- |
 | 侠义出手 | 侠界 | 咕咕 | 华风 |  |
-| 荒洲短篇-复仇之潮 | DND5th | 咕咕；珀西；烨夜；| 阿斯特-金；坷萝；约克-斯通 | 20241028—20241110 |
+| 荒洲短篇—复仇之潮 | DND5th | 咕咕；珀西；烨夜；| 阿斯特·金；坷萝；约克·斯通 | 20241028—20241110 |
 |  |  | |  |  |
 ## 坠毁
 
