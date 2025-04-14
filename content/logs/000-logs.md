@@ -24,7 +24,8 @@ categories = ['categories']
 | 风骸岛之龙        | DND5th | 咕咕             | 残山落霞 | |
 | 冰封谷速递        | DND5th | 百战百胜圣武战帅 | 残山落霞 | |
 | 哥布林必须死      | DND5th | ——               |  | |
-| 冰塔峰之龙        | DND5th | 咕咕             | |
+| 冰塔峰之龙        | DND5th | 咕咕             | 盖尔·雷纳 | |
+| 盐沼幽魂          | DND5th | 咕咕             | 康斯坦丁·瓦尔多 | |
 | 奥塔里的小麻烦    | PF2nd  | 咕咕             | <div style="color:#f00;">豪鬼；尤光</div> | |
 | 苗疆往事          | 侠界   | 秋导             | 张云逸 | |
 
@@ -46,3 +47,4 @@ categories = ['categories']
 
 |<div style="width:100px;"> 模组 </dev> | <div style="width:100px;"> 规则 </dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> 是否升空</dev> | <div style="width:100px;"> 当前高度</dev> |
 | :--- | :--- | :--- | :--- | :--- |
+| 朝拜 | DND5th | 咕咕 | 否 | 收集材料中 |
