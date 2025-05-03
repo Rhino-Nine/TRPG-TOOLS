@@ -10,7 +10,7 @@ categories = ['categories']
 ## 降落
 
 |<div style="width:100px;"> 规则-模组 </dev> |  <div style="width:100px;"> GM</dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | COC7th 追书人         | 雅霜             |  | |
 | COC7th 望君长留       | Yoker            | <div style="color:#f00;">无名和尚</div>      | |
 | COC7th 死者的顿足舞   | ——               | 拜尔博格·斯塔 | |
@@ -33,18 +33,18 @@ categories = ['categories']
 
 |<div style="width:100px;"> 规则-模组 </dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
 | :--- | :--- | :--- | :--- | :--- |
-| 侠界      侠义出手                | 侠界          | 咕咕                  | 华风 |  |
+| 侠界      侠义出手                | 侠界          | 咕咕                  | 华风 | \ |
 | DND5th    荒洲短篇—复仇之潮       | DND5th        | 咕咕；珀西；烨夜；    | 阿斯特·金；坷萝；约克·斯通 | 20241028—20241110 |
 
 ## 坠毁
 
 |<div style="width:100px;"> 规则-模组 </dev> | <div style="width:100px;"> GM </dev> | <div style="width:100px;"> PC</dev> | <div style="width:100px;"> 结团时间</dev> |
-| :--- | :--- | :--- | :--- | :--- |
-| DND5th 风骇岛之龙 |  | 残山落霞 |  |
-| DND5th 凡达林矿坑 |  | 豪鬼 |  |
+| :--- | :--- | :--- | :--- |
+| DND5th 风骇岛之龙  | \ | 残山落霞   | \ |
+| DND5th 凡达林矿坑  | \ | 豪鬼       | \ |
 
 ## 筹备
 
 |<div style="width:100px;"> 规则-模组 </dev> | <div style="width:100px;"> PL</dev> | <div style="width:100px;"> 是否升空</dev> | <div style="width:100px;"> 当前高度</dev> |
-| :--- | :--- | :--- | :--- | :--- |
+| :--- | :--- | :--- | :--- |
 | DND5th 星界冒险序章 | 咕咕 | 是 | 一测完毕 |
